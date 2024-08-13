@@ -1,0 +1,12 @@
+.needy, .notneedy{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.notneedy{
+    background-color: black;
+    color: white;
+}
+
+.needy{
+    background-color: yellow;
+}
